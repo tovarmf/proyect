@@ -1,0 +1,23 @@
+<html> 
+<head> 
+   	<title>Fondo de prueba</title> 
+</head> 
+
+<body>
+<background="lasoga.png"> 
+
+<table width="550" bgcolor=ff65ff align=center> 
+<tr> 
+   	<td> 
+
+   	<h1 style="color:000000">Cargando...</h1> 
+   	<br> 
+   	Texto de prueba en pagina web. 
+   	<br> 
+
+   	</td> 
+</tr> 
+</table> 
+
+</body> 
+</html>
